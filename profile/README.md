@@ -52,7 +52,7 @@
 | **1** `Corporate email` | **5** `Corporate email` | **10** `Corporate email` |
 | **1** `domain name` | **3** `domain name` | **7** `domain name` |
 | **Infinite** `Support` | **Infinite** `Support` | **Infinite** `Support` |
-| **$ 220.90** `per year` | **$ 480.90** `per year` | **$ 970.90** `per year` |
+| **$ 220.<sup>90</sup>** `per year` | **$ 480.<sup>90</sup>** `per year` | **$ 970.<sup>90</sup>** `per year` |
 | [Sign Up](https://futuree.netlify.app/en#fiyat) | [Sign Up](https://futuree.netlify.app/en#fiyat) | [Sign Up](https://futuree.netlify.app/en#fiyat) |
 
 ------------------------------------------------------------------------------------------------------
