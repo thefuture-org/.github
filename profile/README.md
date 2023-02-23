@@ -1,4 +1,4 @@
-<img width="30%" src="https://futuree.netlify.app/resimler/futurebanner2.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png">
+<img width="30%" src="https://futuree.netlify.app/resimler/futurebanner2.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png">
 
 # The Future Software Company - The Future Co. Series
 1.0 - Adresses
@@ -12,7 +12,10 @@
 -----------------------------------------------------------------------------------------------------
 
 ## About
-<div><img width="10%" src="https://futuree.netlify.app/resimler/futurelogo.png"><p style="max-width:50%;">The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming, domain buying, opening a website, on a single website. A subsidiary of The Future Software Company Series, this masterpiece provides incredible experiences to its users. Come visit now and say hello to the future!</p></div> 
+| <a href="https://futuree.netlify.app/en"><img width="20%" src="https://futuree.netlify.app/resimler/futurelogo.png"></a> |
+| ------------- |
+
+<p style="max-width:50%;">The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming, domain buying, opening a website, on a single website. A subsidiary of The Future Software Company Series, this masterpiece provides incredible experiences to its users. Come visit now and say hello to the future!</p>
 
 ------------------------------------------------------------------------------------------------
 
