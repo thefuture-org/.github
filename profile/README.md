@@ -64,3 +64,7 @@
 | ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:218px;height:114px;"> | <img src="https://futuree.netlify.app/resimler/future-co-logo.png" style="width:250px;height:208px;"> |
 | ------------- | ------------- | ------------- |
 | [`GO TO LINK`](https://netlify.com) | [`GO TO LINK`](https://www.w3schools.com) | [`GO TO LINK`](https://futuree.netlify.app/en) |
+
+<footer>
+<a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>|</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>|</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a>
+</footer>
