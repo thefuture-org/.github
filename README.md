@@ -66,5 +66,5 @@
 | [`GO TO LINK`](https://netlify.com) | [`GO TO LINK`](https://www.w3schools.com) | [`GO TO LINK`](https://futuree.netlify.app/en) |
 <br>
 <br>
-<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>|</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>|</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
+<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>|</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>|</sub> <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
 
