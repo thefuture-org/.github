@@ -5,12 +5,12 @@
 
 # The Future Software Company - The Future Co. Series
 1.0 - Adresses
-  - [About](https://github.com/The-Future-Software-Company#about)
-  - [Team](https://github.com/The-Future-Software-Company#Team)
+  - <a href="#About">About</a>
+  - <a href="#Team">Team</a>
   - [Website](https://futuree.netlify.app/en)
-  - [Projects](https://github.com/The-Future-Software-Company#Projects)
-  - [Pricing](https://github.com/The-Future-Software-Company#Pricing)
-  - [Contributors](https://github.com/The-Future-Software-Company#Contributors)
+  - <a href="#Projects">Projects</a>
+  - <a href="#Pricing">Pricing</a>
+  - <a href="#Contributors">Contributors</a>
   
 -----------------------------------------------------------------------------------------------------
 
