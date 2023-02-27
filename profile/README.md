@@ -1,6 +1,6 @@
-<img width="30%" src="https://futuree.netlify.app/resimler/futurebanner2.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png"><picture width="30%">
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/The-Future-Software-Company/.github/image?description=1&font=Raleway&forks=1&issues=1&owner=0&pulls=1&pattern=Solid&stargazers=1&theme=Dark">
-    <img src="https://socialify.git.ci/The-Future-Software-Company/.github/image?description=1&font=Raleway&forks=1&issues=1&owner=0&pulls=1&pattern=Solid&stargazers=1&theme=Light">
+<img width="25%" src="https://futuree.netlify.app/resimler/futurebanner2.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png"><picture>
+    <source width="44%" media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/The-Future-Software-Company/.github/image?description=1&font=Raleway&owner=0&pattern=Solid&theme=Dark">
+    <img width="44%" src="https://socialify.git.ci/The-Future-Software-Company/.github/image?description=1&font=Raleway&owner=0&pattern=Solid&theme=Light">
   </picture>
 
 # The Future Software Company - The Future Co. Series
