@@ -64,7 +64,7 @@
 ------------------------------------------------------------------------------------------------------
 
 ## Contributors
-| ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:218px;height:114px;"> | <img src="https://futuree.netlify.app/resimler/future-co-logo.png" style="width:250px;height:208px;"> |
+| ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:218px;height:114px;"> | <img src="https://futuree.netlify.app/resimler/futurebanner.png" style="width:250px;height:208px;"> |
 | ------------- | ------------- | ------------- |
 | [`GO TO LINK`](https://netlify.com) | [`GO TO LINK`](https://www.w3schools.com) | [`GO TO LINK`](https://futuree.netlify.app/en) |
 <br>
