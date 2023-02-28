@@ -27,14 +27,14 @@
 | ------------- | ------------- |
 | Company founder  | Picture Manager  |
 | The founder of the company and the website. | The important person who manages the pictures. |
-| [Communation](mailto:huseyinncinar0@gmail.com) | [Communation](mailto:huseyinncinar0@gmail.com) |
+| [Communation](mailto:huseyinncinar0@gmail.com) | [Communation](mailto:@gmail.com) |
 
 
 | Ugurcan  | Arda |
 | ------------- | ------------- |
 | Web Designer  | Graphic Designer  |
 | A friend who does his job willingly. | Someone who designs all the colors and shapes. |
-| [Communation](mailto:huseyinncinar0@gmail.com) | [Communation](mailto:huseyinncinar0@gmail.com) |
+| [Communation](mailto:@gmail.com) | [Communation](mailto:@gmail.com) |
 
 ------------------------------------------------------------------------------------------------------
 
