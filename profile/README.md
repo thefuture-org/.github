@@ -42,12 +42,12 @@
 | Codes for Websites  | Useful Apps |
 | ------------- | ------------- |
 | A Web Code Bank that makes the lives of people who make websites easier...  | Programmed on the internet by our software team are compiled.  |
-| [Visit](https://futuree.netlify.app/kodlama)  | [Visit](https://futuree.netlify.app/apps)  |
+| [Visit](https://futuree.netlify.app/en/coding)  | [Visit](https://futuree.netlify.app/en/apps)  |
 
 | Blog Page  | Login Page |
 | ------------- | ------------- |
 | On this page, you can find information on all kinds of subjects from daily life to technology.  | Now you can become a member of our site, shop and have many advantages.  |
-| [Visit](https://futuree.netlify.app/blog)  | [Visit](https://futuree.netlify.app/login)  |
+| [Visit](https://futuree.netlify.app/blog)  | [Visit](https://futuree.netlify.app/en/login)  |
 
 ------------------------------------------------------------------------------------------------------
 
