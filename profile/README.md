@@ -48,6 +48,7 @@
 | Basis Plan  | Professional Plan | Premium Plan |
 | :-------------: | :-------------: | :-------------: |
 | **20GB** `Storage` | **50GB** `Storage` | **100GB** `Storage` |
+| **200GB** `Bandwith` | **500GB** `Bandwith` | **1TB** `Bandwith` |
 | **1** `Corporate email` | **5** `Corporate email` | **10** `Corporate email` |
 | **1** `domain name` | **3** `domain name` | **7** `domain name` |
 | **Infinite** `Support` | **Infinite** `Support` | **Infinite** `Support` |
