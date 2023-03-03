@@ -53,7 +53,7 @@
 
 ## Pricing
 | Basis Plan  | Professional Plan | Premium Plan |
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: |
 | **20GB** `Storage` | **50GB** `Storage` | **100GB** `Storage` |
 | **1** `Corporate email` | **5** `Corporate email` | **10** `Corporate email` |
 | **1** `domain name` | **3** `domain name` | **7** `domain name` |
@@ -65,9 +65,9 @@
 
 ## Contributors
 | ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:109px;height:57px;"> | <img src="https://futuree.netlify.app/resimler/futurebanner.png" style="width:125px;height:125px;"> | <img src="https://www.wallpaperbetter.com/public/css/logo.svg" width="129px" height="20px"> | <img src="https://futuree.netlify.app/resimler/pexels.png" style="width:125px;height:125px;"> |
-| ------------- | ------------- | ------------- | ----------- | ----------- |
+| :-------------: | :-------------: | :-------------: | :-----------: | :-----------: |
 | [`GO TO LINK`](https://netlify.com) | [`GO TO LINK`](https://www.w3schools.com) | [`GO TO LINK`](https://futuree.netlify.app/en) | [`GO TO LINK`](https://wallpaperbetter.com/) | [`GO TO LINK`](https://pexels.com) |
 <br>
 <br>
-<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>|</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>|</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
+<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
 
