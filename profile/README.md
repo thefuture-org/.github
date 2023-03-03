@@ -23,18 +23,11 @@
 ------------------------------------------------------------------------------------------------
 
 ## Team
-| Huseyin  | Cemre |
-| ------------- | ------------- |
-| Company founder  | Picture Manager  |
-| The founder of the company and the website. | The important person who manages the pictures. |
-| [Communation](mailto:huseyinncinar0@gmail.com) | [Communation](mailto:@gmail.com) |
-
-
-| Ugurcan  | Arda |
-| ------------- | ------------- |
-| Web Designer  | Graphic Designer  |
-| A friend who does his job willingly. | Someone who designs all the colors and shapes. |
-| [Communation](mailto:@gmail.com) | [Communation](mailto:@gmail.com) |
+| Huseyin  | Cemre | Ugurcan  | Arda |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| Company founder  | Picture Manager  | Web Designer  | Graphic Designer  |
+| The founder of the company<br> and the website. A leader<br> who loves his job and<br> is a professional in his job! | The important person who<br> manages the pictures on the<br> website and makes the<br> combinations! | A friend who does<br> his job willingly, some<br> software and some<br> design knowledge! | Someone who designs all<br> the colors and shapes<br> on the website and<br> knows that the most<br> important part of a website<br> is design! |
+| [_`Communation`_](mailto:huseyinncinar0@gmail.com) | [_`Communation`_](mailto:@gmail.com) | [_`Communation`_](mailto:@gmail.com) | [_`Communation`_](mailto:@gmail.com) |
 
 ------------------------------------------------------------------------------------------------------
 
