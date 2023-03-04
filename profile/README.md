@@ -53,9 +53,9 @@ The Future comes from many parts of the world; was established to gather people 
 ------------------------------------------------------------------------------------------------------
 
 ## Contributors
-| ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:109px;height:57px;"> | <img src="https://futuree.netlify.app/resimler/futurebanner.png" style="width:125px;height:125px;"> | <img src="https://www.wallpaperbetter.com/public/css/logo.svg" width="129px" height="20px"> | <img src="https://futuree.netlify.app/resimler/pexels.png" style="width:125px;height:125px;"> |
-| :-------------: | :-------------: | :-------------: | :-----------: | :-----------: |
-| [`GO TO LINK`](https://netlify.com) | [`GO TO LINK`](https://www.w3schools.com) | [`GO TO LINK`](https://futuree.netlify.app/en) | [`GO TO LINK`](https://wallpaperbetter.com/) | [`GO TO LINK`](https://pexels.com) |
+| ![](https://futuree.netlify.app/resimler/netlify.jpg) | <img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" style="width:109px;height:57px;"> | <img src="https://fontawesome.com/images/favicon/icon.svg" style="width:125px;height:125px;"> | <img src="https://www.wallpaperbetter.com/public/css/logo.svg" width="129px" height="20px"> | <img src="https://futuree.netlify.app/resimler/pexels.png" style="width:125px;height:125px;"> | <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" style="width:104px;height:82px;"> |
+| :-------------: | :-------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| [`GO TO LINK`](https://netlify.com/) | [`GO TO LINK`](https://www.w3schools.com/) | [`GO TO LINK`](https://fontawesome.com/) | [`GO TO LINK`](https://wallpaperbetter.com/) | [`GO TO LINK`](https://pexels.com/) | [`GO TO LINK`](https://getbootstrap.com/)
 <br>
 <br>
 <div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
