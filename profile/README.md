@@ -17,6 +17,7 @@
 ## About
 | <a href="https://futuree.netlify.app/en"><img width="20%" src="https://futuree.netlify.app/resimler/futurelogo.png"></a> | <img width="270px" height="40px" src="https://api.netlify.com/api/v1/badges/c0bfaa27-8c92-486a-9522-c782f2f86ae0/deploy-status"> |
 | ------------- | ------------- |
+
 The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming, domain buying, opening a website, on a single website. A subsidiary of The Future Software Company Series, this masterpiece provides incredible experiences to its users. Come visit now and say hello to the future!
 
 ------------------------------------------------------------------------------------------------
