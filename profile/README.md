@@ -1,3 +1,7 @@
+| <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11"> English | <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11"> Turkish | <img src="https://futuree.netlify.app/resimler/fr-flag.webp" width="16" height="10"> Franch |
+| :---------: | :---------: | :---------: |
+| <code>Selected</code> | <code>[Translate](https://github.com/thefuture-org/.github/profile/README_TR.md)</code> | <code>[Translate](https://github.com/thefuture-org/.github/profile/README_FR.md)</code> |
+
 <img width="25%" src="https://futuree.netlify.app/resimler/futurebanner2.png"><img width="30%" src="https://futuree.netlify.app/resimler/future-co-logo.png"><picture>
     <source width="44%" media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/thefuture-org/thefuture-org/image?font=Raleway&owner=0&pattern=Solid&theme=Dark">
     <img width="44%" src="https://socialify.git.ci/thefuture-org/thefuture-org/image?font=Raleway&owner=0&pattern=Solid&theme=Light">
