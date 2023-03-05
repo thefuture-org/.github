@@ -7,7 +7,7 @@
 1.0 - Adresses
   - <a href="#A-propos-de">A propos de</a>
   - <a href="#Team">Team</a>
-  - [Website](https://futuree.netlify.app/fr)
+  - [site Internet](https://futuree.netlify.app/fr)
   - <a href="#Projets">Projets</a>
   - <a href="#Tarifs">Tarifs</a>
   - <a href="#Contributeurs">Contributeurs</a>
