@@ -5,17 +5,17 @@
 
 # The Future Software Company - The Future Co. Series
 1.0 - Adresler
-  - <a href="#About">Hakkında</a>
-  - <a href="#Team">Takım</a>
-  - [Website](https://futuree.netlify.app/)
-  - <a href="#Projects">Projeler</a>
-  - <a href="#Pricing">Fiyatlandırma</a>
-  - <a href="#Contributors">Katkılar</a>
+  - <a href="#hakkında">Hakkında</a>
+  - <a href="#takım">Takım</a>
+  - [İnternet Sitesi](https://futuree.netlify.app/)
+  - <a href="#projeler">Projeler</a>
+  - <a href="#fiyatlandırma">Fiyatlandırma</a>
+  - <a href="#katkılar">Katkılar</a>
   
 -----------------------------------------------------------------------------------------------------
 
 ## Hakkında
-| <a href="https://futuree.netlify.app/en"><img width="20%" src="https://futuree.netlify.app/resimler/futurelogo.png"></a> | <img width="270px" height="40px" src="https://api.netlify.com/api/v1/badges/c0bfaa27-8c92-486a-9522-c782f2f86ae0/deploy-status"> |
+| <a href="https://futuree.netlify.app"><img width="20%" src="https://futuree.netlify.app/resimler/futurelogo.png"></a> | <img width="270px" height="40px" src="https://api.netlify.com/api/v1/badges/c0bfaa27-8c92-486a-9522-c782f2f86ae0/deploy-status"> |
 | ------------- | ------------- |
 
 The Future dünyanın birçok yerinden geliyor; yazılım, kodlama, programlama, domain satın alma, web sitesi açma gibi farklı amaçlara sahip kişileri tek bir web sitesinde toplamak amacıyla kurulmuştur. The Future Software Company Series'in bir yan kuruluşu olan bu şaheser, kullanıcılarına inanılmaz deneyimler sunuyor. Şimdi gelin ve geleceğe merhaba deyin!
