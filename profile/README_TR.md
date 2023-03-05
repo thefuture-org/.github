@@ -4,7 +4,7 @@
   </picture>
 
 # The Future Software Company - The Future Co. Series
-1.0 - Adresses
+1.0 - Adresler
   - <a href="#About">Hakkında</a>
   - <a href="#Team">Takım</a>
   - [Website](https://futuree.netlify.app/)
