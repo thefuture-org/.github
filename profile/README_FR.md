@@ -1,4 +1,4 @@
-| <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11"> English | <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11"> Turkish | <img src="https://futuree.netlify.app/resimler/fr-flag.webp" width="16" height="10"> Franch |
+| <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11"> English | <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11"> Türkçe | <img src="https://futuree.netlify.app/resimler/fr-flag.webp" width="16" height="10"> Français |
 | :---------: | :---------: | :---------: |
 | <code>[Translate](https://github.com/thefuture-org/.github/blob/main/profile/README.md)</code> | <code>[Translate](https://github.com/thefuture-org/.github/blob/main/profile/README_TR.md)</code> | <code>Selected</code> |
 
