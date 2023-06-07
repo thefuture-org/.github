@@ -66,5 +66,5 @@ The Future comes from many parts of the world; was established to gather people 
 | [`GO TO LINK`](https://getbootstrap.com/) | [`GO TO LINK`](https://cdnjs.com/) | [`GO TO LINK`](https://pexels.com/) |
 <br>
 <br>
-<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://futuree.netlify.app/en"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
+<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://huseyincinar.netlify.app/"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
 
