@@ -66,5 +66,5 @@ The Future dünyanın birçok yerinden geliyor; yazılım, kodlama, programlama,
 | [`ZİYARET ET`](https://getbootstrap.com/) | [`ZİYARET ET`](https://cdnjs.com/) | [`ZİYARET ET`](https://pexels.com/) |
 <br>
 <br>
-<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://futuree.netlify.app"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
+<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://huseyincinar.netlify.app"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
 
