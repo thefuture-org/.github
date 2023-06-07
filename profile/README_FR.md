@@ -66,4 +66,4 @@ The Future, Il a été créé pour rassembler des personnes de nombreuses partie
 | [`ALLER AU LIEN`](https://getbootstrap.com/) | [`ALLER AU LIEN`](https://cdnjs.com/) | [`ALLER AU LIEN`](https://pexels.com/) |
 <br>
 <br>
-<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://futuree.netlify.app/fr"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
+<div align="center"><a href="https://lytwest.live"><sub>lytwest.live</sub></a>  <sub>·</sub>  <a href="https://huseyincinar.netlify.app/"><sub>huseyin.is-a.dev</sub></a>  <sub>·</sub>  <a href="https://erenndev.github.io"><sub>erenndev.github.io</sub></a></div>
